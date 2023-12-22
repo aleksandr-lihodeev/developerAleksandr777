@@ -1,4 +1,4 @@
-<p align="center">Hello!<br>My name is Aleksandr. I'm a beginner fullstack dev, but I still learning fron-end.<br>I'm from Bishkek, Kyrgyzstan.<br>If you need professional HTML / CSS / JS coding, I can help you.<br>Skills:<br>-HTML, CSS<br>-JavaScript<br>-React.js, React Hooks<br>-Bootstrap, BEM, Flex-Box<br>-npm, git<br>-Rest API, AI</p>
+<p align="center">Hello!<br>My name is Aleksandr. I'm a fullstack<br>If you need professional HTML / CSS / JS coding, I can help you.<br>Skills:<br>-HTML, CSS<br>-JavaScript<br>-React.js, React Hooks<br>-Bootstrap, BEM, Flex-Box<br>-npm, git<br>-Rest API, AI</p>
 
 ###
 
