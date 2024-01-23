@@ -1,5 +1,4 @@
 <p align="center">Hello!<br>My name is Aleksandr. I'm a frontend<br>Skills:
-<br>
 <br>HTML5
 <br>
 CSS3/SCSS/SASS/LESS 
