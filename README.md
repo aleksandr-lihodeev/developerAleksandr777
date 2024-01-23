@@ -1,4 +1,6 @@
 <p align="center">Hello!<br>My name is Aleksandr. I'm a fullstack<br>If you need professional HTML / CSS / JS coding, I can help you.<br>Skills:
+  <br/>
+
 <br/>
 HTML5
   <br/>
