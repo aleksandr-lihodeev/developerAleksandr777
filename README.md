@@ -1,25 +1,71 @@
-<p align="center">Hello!<br>My name is Aleksandr. I'm a fullstack<br>If you need professional HTML / CSS / JS coding, I can help you.<br>Skills:HTML5
+<p align="center">Hello!<br>My name is Aleksandr. I'm a fullstack<br>If you need professional HTML / CSS / JS coding, I can help you.<br>Skills:
+<br/>
+HTML5
+  <br/>
+
 CSS3/SCSS/SASS/LESS 
+<br/>
+
 Flex/Grid 
+<br/>
+
 Bootstrap
+<br/>
+
 Javascript
+<br/>
+
 Ecmascript 6+ 
+<br/>
+
 Rest Api/CRUD 
+<br/>
+
 React FC/CC 
+<br/>
+
 React HOC,custom hooks 
+<br/>
+
 Redux/RTK
+<br/>
+
 Typescript 
+<br/>
+
 Material UI 
+<br/>
+
 Ant Design 
+<br/>
+
 GIT
+<br/>
+
 Node JS 
+<br/>
+
 Express JS 
+<br/>
+
 MongoDB/mongoose 
+<br/>
+
 Authentication
+<br/>
+
 JWT
+<br/>
+
 Amazon Web Services 
+<br/>
+
 AdminJS 
-Postman</p>
+<br/>
+
+Postman
+<br/>
+</p>
 
 ###
 
